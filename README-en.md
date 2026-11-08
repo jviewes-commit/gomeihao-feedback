@@ -18,6 +18,8 @@ GoMeihao (Go 美好) is a free, offline-first kit for **Chinese visitors to the 
   *Layout glitches, offline mode not working, no audio, wrong time, install problems.*
 - 💡 **Suggest a Feature**: [Submit Feature Request](https://github.com/jviewes-commit/gomeihao-feedback/issues/new?template=04_feature_request.md)
 
+No GitHub account? Email [support@gomeihao.com](mailto:support@gomeihao.com).
+
 ---
 
 ## 🔍 How We Check Facts
@@ -44,4 +46,6 @@ GoMeihao (Go 美好) is a free, offline-first kit for **Chinese visitors to the 
 - 🗣️ **Show-Cards**: [https://gomeihao.com/#/cards](https://gomeihao.com/#/cards)
 - 🛂 **Entry & EVUS**: [https://gomeihao.com/#/entry](https://gomeihao.com/#/entry)
 - 🆘 **Emergency**: [https://gomeihao.com/#/emergency](https://gomeihao.com/#/emergency)
+- ℹ️ **About**: [https://gomeihao.com/about/](https://gomeihao.com/about/)
+- 📧 **Contact**: [support@gomeihao.com](mailto:support@gomeihao.com)
 - 🇨🇳 **Sister app**: [GoHaode](https://gohaode.com), the same kind of kit for foreign visitors to China

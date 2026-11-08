@@ -1,5 +1,8 @@
 blank_issues_enabled: true
 contact_links:
+  - name: "📧 发邮件给 GoMeihao · Email the GoMeihao team"
+    url: mailto:support@gomeihao.com
+    about: "私密问题或没有 GitHub 账号时使用，请勿发送护照号 / For anything private, or if you don't have a GitHub account. Never send your passport number."
   - name: "🚀 打开 GoMeihao · Open GoMeihao"
     url: https://gomeihao.com
     about: "免费、离线优先的赴美出行与探亲工具 / The free, offline-first US travel kit for Chinese visitors and parents."
