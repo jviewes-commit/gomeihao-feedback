@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "🚀 打开 GoMeihao · Open GoMeihao"
+    url: https://gomeihao.com
+    about: "免费、离线优先的赴美出行与探亲工具 / The free, offline-first US travel kit for Chinese visitors and parents."
+  - name: "🔒 隐私与安全 · Privacy"
+    url: https://gomeihao.com/#/privacy
+    about: "请勿在 issue 里贴护照号、签证号、手机号或住址 / Never post passport or visa numbers, phone numbers or addresses."
