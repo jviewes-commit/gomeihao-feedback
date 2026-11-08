@@ -19,7 +19,7 @@ GoMeihao（Go 美好）是给**在美国的中国游客和来美探亲的父母*
 - 💡 **提出新功能**：[提交功能建议](https://github.com/jviewes-commit/gomeihao-feedback/issues/new?template=04_feature_request.md)  
   *比如想要的新场景、新的州、给父母用更方便的地方。*
 
-不会用 GitHub？可以请子女帮忙提交，或直接用标题写清楚问题，模板里的项目能填多少填多少。
+没有 GitHub 账号？请发邮件到 [support@gomeihao.com](mailto:support@gomeihao.com)，或请子女帮忙提交。应用里「设置 → 反馈与联系」可一键发送带版本号的反馈邮件。
 
 ---
 
@@ -48,5 +48,7 @@ GoMeihao（Go 美好）是给**在美国的中国游客和来美探亲的父母*
 - 🛂 **入境与 EVUS**：[https://gomeihao.com/#/entry](https://gomeihao.com/#/entry)
 - 🏥 **看病**：[https://gomeihao.com/#/medical](https://gomeihao.com/#/medical)
 - 🆘 **紧急求助**：[https://gomeihao.com/#/emergency](https://gomeihao.com/#/emergency)
+- ℹ️ **关于与反馈**：[https://gomeihao.com/about/](https://gomeihao.com/about/)
+- 📧 **联系邮箱**：[support@gomeihao.com](mailto:support@gomeihao.com)
 - 📚 **攻略文章**：[https://gomeihao.com/guide/](https://gomeihao.com/guide/)
 - 🇨🇳 **姊妹应用**：[GoHaode](https://gohaode.com)，给来华外国游客用的同款工具
